@@ -1,0 +1,23 @@
+{
+  "name": "hugsycms-cli",
+  "version": "0.0.1",
+  "description": "a cli for HugsyCMS",
+  "main": "index.js",
+  "scripts": {
+    "build": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugsycms/hugsycms-cli.git"
+  },
+  "keywords": [
+    "HugsyCMS",
+    "hugsycms-cli"
+  ],
+  "author": "kavience",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hugsycms/hugsycms-cli/issues"
+  },
+  "homepage": "https://github.com/hugsycms/hugsycms-cli#readme"
+}
